@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+imblearn.over_sampling
+
+Flask
+dill
+-e .
